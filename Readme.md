@@ -11,4 +11,4 @@ My motivation behind this project was to learn how to how to perform Api Testing
 4. Open test cases from 'Test Cases' folder
 5. Select the Environment Profile from the top-right menu
 6. Click the Play button to start the test
-7. Analyse failure in the 'Log Viewer' at the bottom
+7. Analyse failures in the 'Log Viewer' at the bottom
