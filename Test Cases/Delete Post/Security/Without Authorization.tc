@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Without Authorization</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fcd4006-f37b-45ee-ab00-28b3630b8a2e</testCaseGuid>
+   <variable>
+      <defaultValue>'This a test post title created on: '</defaultValue>
+      <description></description>
+      <id>b7cc96b4-b719-40ba-a198-f732fda5ab4d</id>
+      <masked>false</masked>
+      <name>newPostTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s content created on: '</defaultValue>
+      <description></description>
+      <id>ad7231de-f6cf-4c39-bb5b-766eda1b7cb3</id>
+      <masked>false</masked>
+      <name>newPostContent</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>96714947-1391-464a-bc70-d1d130a6c344</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>3bfd3401-c0a6-4e3f-8d20-6f4468ee8dff</id>
+      <masked>false</masked>
+      <name>postId</name>
+   </variable>
+</TestCaseEntity>

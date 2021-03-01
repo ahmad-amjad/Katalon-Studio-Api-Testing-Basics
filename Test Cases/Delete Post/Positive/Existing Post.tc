@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Existing Post</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9808806-b5b1-4b26-b776-d1b769f92297</testCaseGuid>
+   <variable>
+      <defaultValue>'This a test post title created on: '</defaultValue>
+      <description></description>
+      <id>b0b14c2e-3eef-47da-86c3-fa956beadd2e</id>
+      <masked>false</masked>
+      <name>newPostTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s content created on: '</defaultValue>
+      <description></description>
+      <id>6fc5d8af-f3a6-4d62-ab4b-f88228859a67</id>
+      <masked>false</masked>
+      <name>newPostContent</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>b0615770-31a2-40d6-8677-8cf5ec9bb6e9</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>63211040-a201-4d37-80fb-ca77dda87913</id>
+      <masked>false</masked>
+      <name>postId</name>
+   </variable>
+</TestCaseEntity>

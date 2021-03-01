@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Patch a Post Partially</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3aaa7e4-d40d-43db-83bc-28afeae801ba</testCaseGuid>
+   <variable>
+      <defaultValue>'This is a test post\'s title created on: '</defaultValue>
+      <description></description>
+      <id>3994f071-dba7-4326-8d24-fdd491e50593</id>
+      <masked>false</masked>
+      <name>newPostTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s content created on: '</defaultValue>
+      <description></description>
+      <id>39478334-4924-4f65-9618-5bad3e7b0ad0</id>
+      <masked>false</masked>
+      <name>newPostContent</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>5f80033a-c6cc-42a4-8903-fc2dd03e1aa0</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>9e1ee1d4-c150-4da2-90c6-366c9fbffe22</id>
+      <masked>false</masked>
+      <name>postId</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s title updated on: '</defaultValue>
+      <description></description>
+      <id>7c919938-b64b-46f5-a20f-f1a12206a849</id>
+      <masked>false</masked>
+      <name>updatedPostTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s content updated on: '</defaultValue>
+      <description></description>
+      <id>08bc9897-2800-4a6d-a0d4-2e91f70b5c55</id>
+      <masked>false</masked>
+      <name>updatedPostContent</name>
+   </variable>
+</TestCaseEntity>

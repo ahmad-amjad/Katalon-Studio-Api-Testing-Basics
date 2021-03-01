@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Min Input Parameters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acb323bc-fd54-4e26-bb41-3939034486cb</testCaseGuid>
+   <variable>
+      <defaultValue>'This a test post title created on: '</defaultValue>
+      <description></description>
+      <id>7ab6cb3a-d39a-40d5-be11-344f6d6dffd7</id>
+      <masked>false</masked>
+      <name>newPostTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s content created on: '</defaultValue>
+      <description></description>
+      <id>3c0fece1-ba8f-40b0-87fc-3fa7b9d0566d</id>
+      <masked>false</masked>
+      <name>newPostContent</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>8433077e-8b7a-4029-93a6-fad0949b8979</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>cd8553a7-3e5d-414b-b2f0-5ebcb5b2d54f</id>
+      <masked>false</masked>
+      <name>postId</name>
+   </variable>
+</TestCaseEntity>

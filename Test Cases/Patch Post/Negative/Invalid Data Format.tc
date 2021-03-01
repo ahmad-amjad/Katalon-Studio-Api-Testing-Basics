@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid Data Format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c485fe03-085e-498f-a962-c5c97134619f</testCaseGuid>
+   <variable>
+      <defaultValue>'This is a test post\'s title created on: '</defaultValue>
+      <description></description>
+      <id>48b7c393-51bb-4cc6-b5b8-4d6ec9506127</id>
+      <masked>false</masked>
+      <name>newPostTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s content created on: '</defaultValue>
+      <description></description>
+      <id>3413a13c-eb57-4754-9883-b1c8ca8e0083</id>
+      <masked>false</masked>
+      <name>newPostContent</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>70a6d2f2-e6c0-4a60-b178-5969b3c641a1</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>09918a5a-9051-452a-888f-cee0239448a4</id>
+      <masked>false</masked>
+      <name>postId</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s title updated on: '</defaultValue>
+      <description></description>
+      <id>7bf74ecd-32a6-409d-b02d-0b9b4dd1618e</id>
+      <masked>false</masked>
+      <name>updatedPostTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test post\'s content updated on: '</defaultValue>
+      <description></description>
+      <id>f71b7e96-3d56-468c-a297-8062aade2df2</id>
+      <masked>false</masked>
+      <name>updatedPostContent</name>
+   </variable>
+</TestCaseEntity>
